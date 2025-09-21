@@ -1,0 +1,3 @@
+[submodule "backend-app-coffee-detect"]
+	path = backend-app-coffee-detect
+	url = https://github.com/MuhammadJundullah/backend-app-coffee-detect
